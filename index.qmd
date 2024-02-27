@@ -1,3 +1,8 @@
 ---
 title: "Diana Liu"
+subtitle: "STA 302 Website"
 ---
+
+# About
+
+## Personal Bio
