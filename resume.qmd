@@ -1,14 +1,9 @@
 ---
 title: Resume
-description: "Diana Liu's CV"
 date: 2024-02-26
 published-title: Resume last updated
-engine: knitr
-freeze: false
-cv:
-  pdf: "~/STA 302 Website/Diana_Liu_Resume.pdf"
 ---
 
 ```{=html}
-<iframe width="780" height="500" src="~/STA 302 Website/Diana_Liu_Resume.pdf" title="Quarto Documentation"></iframe>
+<iframe width="1100" height="900" src="https://diana-liu-resume-feb-27-2024.tiiny.site/"></iframe>
 ```

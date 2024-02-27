@@ -1,0 +1,16 @@
+---
+title: "Projects"
+---
+
+# STA 302 Papers
+
+## Paper 1
+```{=html}
+<iframe width="1100" height="900" src="https://github.com/Diana-Guanzhi-Liu/Which-Undergraduate-Majors-Make-the-MostMoney-/tree/main"</iframe>
+```
+
+## Paper 2
+
+```{=html}
+<iframe width="1100" height="900" src="https://github.com/Diana-Guanzhi-Liu/Analysis-of-Toronto-Marriages"</iframe>
+```
