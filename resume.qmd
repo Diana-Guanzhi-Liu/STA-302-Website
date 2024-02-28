@@ -1,9 +1,9 @@
 ---
-title: Resume
+title: CV
 date: 2024-02-26
-published-title: Resume last updated
+published-title: CV last updated
 ---
 
 ```{=html}
-<iframe width="1100" height="900" src="https://diana-liu-resume-feb-27-2024.tiiny.site/"></iframe>
+<iframe width="1100" height="900" src="/Diana_Liu_Resume.pdf"</iframe>
 ```
