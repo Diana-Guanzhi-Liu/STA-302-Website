@@ -2,15 +2,23 @@
 title: "Projects"
 ---
 
-# STA 302 Papers
-
-## Paper 1
-https://github.com/Diana-Guanzhi-Liu/Analysis-of-Toronto-Marriages
 ```{=html}
-<iframe width="900" height="700" src="/paper (1).pdf"</iframe>
+<article>
+<hgroup>
+  <h1>STA 302 Papers</h1>
+</hgroup>
+
+<section>
+  <p> Paper 1: https://github.com/Diana-Guanzhi-Liu/Analysis-of-Toronto-Marriages</p>
+  <iframe width="900" height="700" src="/paper (1).pdf"</iframe>
+</section>
+<section>
+  <p> Paper 2: https://github.com/Diana-Guanzhi-Liu/Which-Undergraduate-Majors-Make-the-MostMoney-</p>
+   <iframe width="900" height="700" src="/paper.pdf"</iframe>
+</section>
+</article>
 ```
 
-## Paper 2
 https://github.com/Diana-Guanzhi-Liu/Which-Undergraduate-Majors-Make-the-MostMoney-
 ```{=html}
 <iframe width="900" height="700" src="/paper.pdf"</iframe>
